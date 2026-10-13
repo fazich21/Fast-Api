@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "What is Python?",
+        "content": "Python is a high-level programming language known for its simple syntax and readability."
+    },
+    {
+        "id": 2,
+        "title": "What is FastAPI?",
+        "content": "FastAPI is a Python framework used to build fast and modern APIs."
+    },
+    {
+        "id": 3,
+        "title": "What is an API?",
+        "content": "An API allows two software applications to communicate with each other."
+    },
+    {
+        "id": 4,
+        "title": "What is CRUD?",
+        "content": "CRUD stands for Create, Read, Update, and Delete. These operations are used to manage data."
+    },
+    {
+        "id": 5,
+        "title": "What is JSON?",
+        "content": "JSON is a data format used to store and exchange structured information."
+    },
+    {
+        "id": 6,
+        "title": "What is Pydantic?",
+        "content": "Pydantic validates data using Python type annotations and models."
+    },
+    {
+        "id": 7,
+        "title": "What is a REST API?",
+        "content": "A REST API uses HTTP methods and URLs to access and manage resources."
+    },
+    {
+        "id": 8,
+        "title": "What is HTTP GET?",
+        "content": "GET is an HTTP method used to retrieve data from a server."
+    },
+    {
+        "id": 9,
+        "title": "What is HTTP POST?",
+        "content": "POST is an HTTP method used to submit data and commonly create new resources."
+    },
+    {
+        "id": 10,
+        "title": "What is HTTP PUT?",
+        "content": "PUT is an HTTP method commonly used to replace an existing resource."
+    },
+    {
+        "id": 11,
+        "title": "What is HTTP DELETE?",
+        "content": "DELETE is an HTTP method used to request the removal of a resource."
+    },
+    {
+        "id": 12,
+        "title": "What is HTTP 404?",
+        "content": "HTTP status code 404 means the requested resource was not found."
+    },
+    {
+        "id": 13,
+        "title": "What is a database?",
+        "content": "A database stores and organizes information so applications can retrieve and manage it."
+    },
+    {
+        "id": 14,
+        "title": "What is SQLite?",
+        "content": "SQLite is a lightweight relational database that stores its data in a file."
+    },
+    {
+        "id": 15,
+        "title": "What is PostgreSQL?",
+        "content": "PostgreSQL is an open-source relational database management system."
+    },
+    {
+        "id": 16,
+        "title": "What is RAG?",
+        "content": "Retrieval-Augmented Generation retrieves relevant information and provides it to a language model to help generate answers."
+    },
+    {
+        "id": 17,
+        "title": "What are embeddings?",
+        "content": "Embeddings are numerical vectors that represent the meaning or features of text and other data."
+    },
+    {
+        "id": 18,
+        "title": "What is a vector database?",
+        "content": "A vector database stores embeddings and supports similarity searches to find semantically related information."
+    },
+    {
+        "id": 19,
+        "title": "What is chunking in RAG?",
+        "content": "Chunking divides large documents into smaller sections that can be indexed and retrieved."
+    },
+    {
+        "id": 20,
+        "title": "What are citations in RAG?",
+        "content": "Citations identify the source documents or passages that support a generated answer."
+    },
+    {
+        "id": 21,
+        "title": "what is Machine Learning",
+        "content": "it is a branch if AI in which machine can learn from different methods of leanring supervised and unsupervised"
+    }
+]
