@@ -103,5 +103,10 @@
         "id": 21,
         "title": "what is Machine Learning",
         "content": "it is a branch if AI in which machine can learn from different methods of leanring supervised and unsupervised"
+    },
+    {
+        "id": 22,
+        "title": "what is Deep Learning",
+        "content": "it is a branch if AI in which we have deep Neural networks to understand and build AI models"
     }
 ]
